@@ -28,7 +28,7 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/Sandermoen/instaclone`
+- Clone this repo to your local machine using `https://github.com/sagar-barapatre/InstaClone`
 
 ### Setup
 
@@ -84,5 +84,5 @@ The app should launch automatically, enjoy playing around 😄
 
 Reach out to me at one of the following places!
 
-- Email at <a href="mailto:smoensander@gmail.com">`smoensander@gmail.com`</a>
+- Email at <a href="mailto:sagarbarapatre.me@gmail.com">`sagarbarapatre@gmail.com`</a>
 - More socials coming soon
