@@ -4,11 +4,11 @@
 
 > An instagram clone created with MongoDB, Express, React, and Socket.io
 
-<img src="https://heroku-badge.herokuapp.com/?app=instaclone-prod" alt='Heroku deploy status' />
+<!-- //<img src="https://heroku-badge.herokuapp.com/?app=instaclone-prod" alt='Heroku deploy status' /> -->
 
-<a href="https://www.instaclone.net">Have a look at the live demo</a>
+<!-- <a href="https://www.instaclone.net">Have a look at the live demo</a> -->
 
-![Showcase GIF](/screenshots/NgmjOVkZ4L.gif)
+<!-- ![Showcase GIF](/screenshots/NgmjOVkZ4L.gif) -->
 
 ## Tech
 
@@ -75,10 +75,10 @@ The app should launch automatically, enjoy playing around 😄
 
 ## Screenshots
 
-![Showcase GIF](/screenshots/wg2j4iHJ7y.gif)
-![Showcase GIF](/screenshots/n94XRALAUb.gif)
-![Showcase GIF](/screenshots/oTWyTUbFvi.gif)
-![Showcase GIF](/screenshots/yA6nMe6Xr4.gif)
+<!-- ![Showcase GIF](/screenshots/wg2j4iHJ7y.gif) -->
+<!-- ![Showcase GIF](/screenshot/s/n94XRALAUb.gif) -->
+<!-- ![Showcase GIF](/screenshots/oTWyTUbFvi.gif) -->
+<!-- ![Showcase GIF](/screenshots/yA6nMe6Xr4.gif) -->
 
 ## Support
 
