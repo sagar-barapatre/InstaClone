@@ -84,5 +84,5 @@ The app should launch automatically, enjoy playing around 😄
 
 Reach out to me at one of the following places!
 
-- Email at <a href="mailto:sagarbarapatre.me@gmail.com">`sagarbarapatre@gmail.com`</a>
+- Email at <a href="mailto:sagarbarapatre.me@gmail.com">`sagarbarapatre.me@gmail.com`</a>
 - More socials coming soon
